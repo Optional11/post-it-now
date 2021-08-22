@@ -1,0 +1,13 @@
+{
+    "name": "optional11/post-it-now",
+    "description": "simple CRUP app for Posts sharing using PHP - simple MVC",
+    "authors": [
+        {
+            "name": "optional11",
+            "email": "sredl.jakub@seznam.cz"
+        }
+    ],
+    "require": {}
+
+    
+}
